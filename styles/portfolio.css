@@ -92,3 +92,6 @@ main{
     border-radius: 20px;
     padding: 130px 150px;
 }
+td,th{
+    padding: 5px 15px;
+}
