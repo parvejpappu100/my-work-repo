@@ -172,10 +172,7 @@ margin-top: 30px;
 .contact{
     display: flex;
     background-color: #FFF8F3;
-    gap: 70px;
-}
-.social{
-    padding: ;
+    gap: 117px;
 }
 .contact-title{
     margin-top: 92px;
@@ -197,4 +194,11 @@ margin-top: 30px;
     font-weight: 700;
     font-size: 35px;
     margin-top: 92px;
+    margin-bottom: 36px;
+}
+.contact input[type="text"],input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 461px;
+    padding: 18px 30px;
 }
