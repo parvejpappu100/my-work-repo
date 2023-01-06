@@ -132,3 +132,39 @@ margin-top: 30px;
     border-radius: 5px;
     padding: 90px 30px 30px 30px;
 }
+/* resume style */
+.resume{
+    margin-bottom: 113px;
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 113px;
+}
+.resume-content{
+    display: flex;
+    gap: 50px;
+}
+.title{
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.resume .sub-title{
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.resume .description{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.resume-btn{
+    text-align: center;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 113px;
+
+}
