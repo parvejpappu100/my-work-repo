@@ -171,14 +171,30 @@ margin-top: 30px;
 /* Contact style */
 .contact{
     display: flex;
-    margin-bottom: 20px;
-    gap: 100px;
     background-color: #FFF8F3;
-    padding: 150px 200px;
+    gap: 70px;
 }
-.contact .section-title{
-    text-align: left;
+.social{
+    padding: ;
 }
-.contact a{
-    text-decoration: none;
+.contact-title{
+    margin-top: 92px;
+    margin-left: 230px;
+    font-weight: 700;
+    font-size: 35px;
+}
+.contact-description{
+    font-size: 16px;
+    line-height: 28px;
+    margin-left: 230px;
+}
+.icon{
+    margin-left: 230px;
+    gap: 0px;
+    margin-bottom: 500px;
+}
+.contact-title-form{
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 92px;
 }
