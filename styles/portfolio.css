@@ -168,3 +168,17 @@ margin-top: 30px;
     margin-bottom: 113px;
 
 }
+/* Contact style */
+.contact{
+    display: flex;
+    margin-bottom: 20px;
+    gap: 100px;
+    background-color: #FFF8F3;
+    padding: 150px 200px;
+}
+.contact .section-title{
+    text-align: left;
+}
+.contact a{
+    text-decoration: none;
+}
